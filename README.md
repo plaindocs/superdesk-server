@@ -54,7 +54,7 @@ $ flake8
 
 ## Running Dev Server
 
-Use honchu to run the app - it will start api server on port `5000`, websocket server on port `5100` and celery.
+Use honcho to run the app - it will start api server on port `5000`, websocket server on port `5100` and celery.
 
 ```sh
 $ honcho start
